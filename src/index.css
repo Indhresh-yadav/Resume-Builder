@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.box-shadow-c{
+    box-shadow: 0px 6px 20px gray ;
+}
+.box-shadow-r{
+box-shadow:0px 12px 20px rgb(231, 191, 79);
+}
+
+.no-oklch * {
+  color: black !important;
+  background-color: white !important;
+}
